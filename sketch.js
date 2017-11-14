@@ -1,3 +1,8 @@
+/*
+//  Detector de movimiento 
+//
+*/
+
 let video;
 let vidPix = [];
 let escala = 32;
